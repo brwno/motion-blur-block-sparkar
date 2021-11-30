@@ -7,5 +7,5 @@ Block de Motion Blur para Spark AR.
 
 # Let's connect
 
-Instagram: @bruno.wx
+Instagram: @bruno.wx <br />
 E-mail: bruno@brwno.cc 
