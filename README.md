@@ -4,5 +4,6 @@ Block de Motion Blur para Spark AR.
 
 # How to use?
 
-[![Use the block]](https://youtu.be/unw_jR9h9_8)
 
+
+[<img src="https://img.youtube.com/vi/unw_jR9h9_8/maxresdefault.jpg" width="50%">](https://youtu.be/unw_jR9h9_8)
